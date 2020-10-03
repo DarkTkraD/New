@@ -1,2 +1,2 @@
 # DARKKARD
-print ("Welcome Bro")
+Welcome Bro
